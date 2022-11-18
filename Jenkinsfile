@@ -137,7 +137,7 @@ pipeline {
                 nexusUrl: '172.31.11.26:8081', 
                 nexusVersion: 'nexus3', 
                 protocol: 'http', 
-                repository: 'maven-jenkins-releases', 
+                repository: 'maven-releases', 
                 version: '9.1.14'               
             }
         }
